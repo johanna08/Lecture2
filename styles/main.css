@@ -1,0 +1,13 @@
+/* Look MA! I'm a CSS comment
+I'm multilined and shit */
+/*
+Guts of a CSS "search query"
+
+selectorName {
+	propertyName: propertyValue;
+}
+*/
+a {
+	color: green;
+	text-transform: uppercase;
+}
