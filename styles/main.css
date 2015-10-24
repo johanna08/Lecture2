@@ -10,10 +10,30 @@ selectorName {
 a {
 	color: #0f0;
 	text-transform: lowercase;
+	background-color: black;
 }/* this is an example of a tagName selector */
 
 .alert-important {
 	color: #f00;
 	text-transform: uppercase;
 	display: block;
+	font-size: 30 px;
+	font-weight: bold;
+	text-align:center; /* only works for block elements */
+
+}
+
+.no-underline {
+	text-decoration: none;
+}
+.box {
+	width: 50px;
+	height: ;
+}
+.red {
+	background-color: red
+	;
+}
+.red.yellow {
+	background-color: orange;
 }
