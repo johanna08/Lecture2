@@ -8,6 +8,6 @@ selectorName {
 }
 */
 a {
-	color: green;
-	text-transform: uppercase;
+	color: #0f0;
+	text-transform: lowercase;
 }
